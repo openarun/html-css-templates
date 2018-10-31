@@ -1,10 +1,12 @@
-body{
+body, html{
     margin:0;
     padding: 0;
-    background: url(img/background.jpg);
-    background-size: auto;
-    background-position: center;
     font-family: sans-serif;
+}
+
+.bg img{
+height: 100%;
+width: 100%;
 }
 
 .loginbox{
@@ -20,7 +22,7 @@ body{
     padding: 70px 30px;
     opacity: 0.7;
     border-radius:  12px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .avatar{
@@ -182,3 +184,16 @@ h1{
     transition: .7s;
 }
 
+.app-footer{
+    position: absolute; 
+    bottom: 0; 
+    width: 100%; 
+    margin-bottom: -50px;
+}
+
+
+
+footer, footer a{
+    color: white;
+    text-align: center;
+}
