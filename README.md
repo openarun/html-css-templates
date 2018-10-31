@@ -4,7 +4,7 @@ HTML CSS Templates
 
 ## Contributors
 
-	Thanks to everyone for contributing to the repo. Lets create new html-css templates.
+	Thanks to everyone for contributing to the repo. Lets create good html-css templates.
 1. [Kool Arpan] (https://github.com/koolarpan)
 2. [nishapariyar] (https://github.com/nishapariyar)
 3. [bornjre] (https://github.com/bornjre)
